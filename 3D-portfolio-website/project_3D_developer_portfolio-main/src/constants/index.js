@@ -52,7 +52,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Unity Game Devoloper",
+    title: "Cloud Computing",
     icon: backend,
   },
   {
