@@ -17,4 +17,5 @@ Born from the idea of digital consciousness — if your future self could advise
 - Embedding-based personality models
 - Feedback loop for accuracy improvement
 - Integration with platforms like Discord or web widgets
+- 
 
