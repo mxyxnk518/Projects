@@ -19,7 +19,7 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
+  voyagepro,
   jobit,
   tripguide,
   threejs,
@@ -199,16 +199,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "VoyagePro",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "VoyagePro is a dynamic travel planning application that builds a complete trip itinerary tailored to the user's preferences. Using a clean React frontend paired with a pure JavaScript backend, the app prompts the user for key travel details — destination, dates, travel type, and activity preferences — and instantly generates a detailed multi-day schedule.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "jsx",
         color: "green-text-gradient",
       },
       {
@@ -216,7 +216,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: voyagepro,
     source_code_link: "https://github.com/",
   },
   {
