@@ -7,6 +7,8 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import voyagepro from "./voyagepro.png";
+import cloud from "./company/cloud.png";
+import aws from "./tech/aws.png";
 import css from "./tech/css.png";
 import c from "./tech/c.svg";
 import figma from "./tech/figma.png";
@@ -37,10 +39,12 @@ export {
   lyriks,
   creator,
   mobile,
+  aws,
   web,
   github,
   menu,
   close,
+  cloud,
   css,
   figma,
   git,

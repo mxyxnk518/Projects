@@ -5,6 +5,8 @@ import {
   web,
   javascript,
   typescript,
+  aws,
+  cloud,
   html,
   css,
   lyriks,
@@ -107,8 +109,8 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "aws",
+    icon: aws,
   },
   {
     name: "django",
@@ -121,7 +123,7 @@ const experiences = [
     title: "Html Css and Javascript",
     icon: starbucks,
     iconBg: "#E6DEDD",
-    date: "March 2020 - April 2021",
+    
     points: [
       "Learning Html and Css from a formal education as well as having an online certification to prove my knowledge with these tools",
       "Developing and maintaining static web applications using Html Css Javascript",
@@ -132,10 +134,10 @@ const experiences = [
   },
   {
     title: "React Native devoloper",
-    company_name: "Tesla",
+    
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers and other developers to create high-quality products.",
@@ -145,10 +147,10 @@ const experiences = [
   },
   {
     title: "Python Devoloper",
-    company_name: "Shopify",
+    
     icon: shopify,
     iconBg: "#E6DEDD",
-    date: "Jan 2022 - Jan 2023",
+    
     points: [
       "Developed robust and scalable Python backend solutions, leveraging frameworks such as Django and Flask to deliver efficient and reliable web applications.",
       "Applied expertise in database design and optimization, ensuring seamless data management and retrieval for enhanced application performance.",
@@ -158,10 +160,10 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    
     points: [
       "Proficient in full-stack development, seamlessly integrating Python for backend logic and React for dynamic and responsive user interfaces, resulting in well-rounded web applications.",
       "Designed and implemented RESTful APIs using Python-based frameworks (Django/Flask) to establish robust communication between the frontend and backend, ensuring optimal data flow.",
@@ -170,34 +172,24 @@ const experiences = [
 
     ],
   },
+  
+  {
+    title: "Cloud Computing & AWS Practitioner",
+
+    icon: cloud,
+    iconBg: "#E6DEDD",
+
+    points: [
+      "Deployed full-stack applications using cloud platforms including AWS, Vercel, and GitHub Pages, ensuring performance, scalability, and global reach.",
+      "Configured and managed AWS services such as S3 (static hosting), EC2 (custom deployments), and Route 53 (domain routing) for production-ready applications.",
+      "Integrated environment variables, IAM roles, and access controls to maintain secure and efficient cloud infrastructure during development and deployment.",
+      "Utilized CI/CD pipelines and GitHub Actions to automate build, test, and deploy workflows with cloud endpoints for seamless version control and delivery.",
+      "Explored AWS Lambda for serverless functions and backend logic, improving scalability and reducing infrastructure overhead across select projects."
+    ],
+  }
+
 ];
 
-const testimonials = [
-  {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-];
 
 const projects = [
   {
@@ -265,4 +257,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, projects };
