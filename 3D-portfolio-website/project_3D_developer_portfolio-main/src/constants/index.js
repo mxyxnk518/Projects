@@ -7,6 +7,8 @@ import {
   typescript,
   html,
   css,
+  lyriks,
+  prepersona,
   reactjs,
   python,
   tailwind,
@@ -204,15 +206,15 @@ const projects = [
       "VoyagePro is a dynamic travel planning application that builds a complete trip itinerary tailored to the user's preferences. Using a clean React frontend paired with a pure JavaScript backend, the app prompts the user for key travel details — destination, dates, travel type, and activity preferences — and instantly generates a detailed multi-day schedule.",
     tags: [
       {
-        name: "react",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "jsx",
+        name: "JSX",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Tailwind",
         color: "pink-text-gradient",
       },
     ],
@@ -220,46 +222,46 @@ const projects = [
     source_code_link: " https://github.com/mxyxnk518/Projects/tree/main/voyagerpro-main/voyagerpro-main",
   },
   {
-    name: "Job IT",
+    name: "Pre Persona",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "PrePersona is an advanced AI-powered digital clone application that learns and mimics your personal communication style, decision-making patterns, and thought processes. It creates a personalized AI representation that can predict how you would respond to future scenarios.",
     tags: [
       {
-        name: "react",
+        name: "Streamlit",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Groq API",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "LangChain",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: prepersona,
+    source_code_link: "https://github.com/mxyxnk518/Projects/tree/main/DataInsightPro",
   },
   {
-    name: "Trip Guide",
+    name: "Lyriks",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Lyriks is a sleek, responsive music streaming platform that replicates the look, feel, and experience of Spotify. Built entirely with modern frontend frameworks and real-time APIs, it allows users to explore trending songs, view synchronized lyrics, and stream music directly through an elegant UI.",
     tags: [
       {
-        name: "nextjs",
+        name: "Tailwind",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Redux",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "RapidAPI",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: lyriks,
+    source_code_link: "https://github.com/mxyxnk518/Projects/tree/main/project_music_player-main",
   },
 ];
 
