@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boeing 787 Dreamliner
+* source:	https://sketchfab.com/3d-models/boeing-787-dreamliner-3ba8a5275d0e41968b34d367c34e8f0f
+* author:	iSteven (https://sketchfab.com/OneSteven)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boeing 787 Dreamliner" (https://sketchfab.com/3d-models/boeing-787-dreamliner-3ba8a5275d0e41968b34d367c34e8f0f) by iSteven (https://sketchfab.com/OneSteven) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
