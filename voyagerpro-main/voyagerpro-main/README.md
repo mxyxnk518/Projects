@@ -1,8 +1,20 @@
-# React + Vite
+# 🧭 VoyagePro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VoyagePro is a dynamic travel planning application that builds complete multi-day itineraries tailored to the user's preferences.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Instant itinerary generation based on destination, dates, travel type, and activity interests
+- Responsive UI designed with Tailwind and JSX
+- Modular multi-day planner for flexibility and clarity
+- Lightweight JavaScript logic to keep things snappy
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Tech Stack
+React • JSX • Tailwind CSS • JavaScript
+
+## 🧠 Inspiration
+Travel planning shouldn't feel like a spreadsheet. VoyagePro gives users a smart, beautiful way to organize trips with ease and flair.
+
+## 🌱 Future Enhancements
+- Firebase or Node.js backend for saved itineraries
+- Location-aware suggestions via map APIs
+- Export to PDF or sharable trip links
