@@ -1,15 +1,28 @@
 
 
-Todo:
-- Find out general structure of password managers
-- Find what hashing algo to use (probably sha256)
+# 🔐 Password Manager App
 
-- Create an SQL database of some kind (mysql)
-	- tables: password, username, user_email, app_name, url
-- Refresh memory on how to create, store and retrieve things from an SQL database
+A desktop-based password management tool built with Python and Tkinter. This app enables users to securely store, retrieve, and assess the strength of their passwords — all within a responsive GUI optimized for ease of use and offline access.
 
-- create a terminal menu
-	- needs to allow the user to type in a domain name, url or app name
-	- user should get back password, email used, and if applicable username
+## 🚀 Features  
+- Store and retrieve passwords with encryption (optional)  
+- Password strength analyzer based on length, character mix, and entropy  
+- Save new entries to local database or file system  
+- Restore previously saved credentials from storage  
+- Simple GUI interface with intuitive layout and real-time feedback  
+- Copy-to-clipboard functionality for easy usage
 
-- create master password
+## ⚙️ Tech Stack  
+Python • Tkinter • file handling / SQLite (depending on implementation)  
+Optional: hashlib • json • cryptography libraries
+
+## 🧠 Inspiration  
+Designed to tackle the common problem of password fatigue and unsafe practices like reuse and weak credentials. This app provides a lightweight, no-login solution that educates users on password quality while keeping access local and secure.
+
+## 🌱 Future Enhancements  
+- Add master password for access control  
+- Encrypt stored data using AES or hashing  
+- Implement category tagging for saved credentials  
+- Integrate password generation feature  
+- Expand to web-based version using Flask or Streamlit
+
